@@ -1,4 +1,4 @@
-# jp2000 - Simple Pi-based demo sensors
+# jpi2000 - Simple Pi-based demo sensors
 
 Using a BME680 and an enviroPHAT as demo environmental sensors for UI demos.
 
