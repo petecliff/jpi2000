@@ -7,3 +7,11 @@ See:
 https://shop.pimoroni.com/products/bme680-breakout
 
 https://shop.pimoroni.com/products/enviro-phat
+
+Setup Wifi:
+
+Using wicd-curses to manage network so:
+
+sudo systemctl disable dhcpcd
+sudo /etc/init.d/dhcpcd stop
+sudo apt-get install wicd-curses
